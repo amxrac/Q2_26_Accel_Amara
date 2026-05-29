@@ -7,3 +7,6 @@
 [submodule "transfer-hook-vault"]
 	path = transfer-hook-vault
 	url = https://github.com/amxrac/transfer-hook-vault
+[submodule "magicblock-er-example"]
+	path = magicblock-er-example
+	url = https://github.com/amxrac/magicblock-er-example
