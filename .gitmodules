@@ -1,3 +1,6 @@
 [submodule "accel_anchor-esrow"]
 	path = accel_anchor-esrow
 	url = https://github.com/amxrac/accel_anchor-esrow
+[submodule "whitelist-transfer-hook"]
+	path = whitelist-transfer-hook
+	url = https://github.com/amxrac/whitelist-transfer-hook
