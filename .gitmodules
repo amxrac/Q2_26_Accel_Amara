@@ -10,3 +10,6 @@
 [submodule "magicblock-er-example"]
 	path = magicblock-er-example
 	url = https://github.com/amxrac/magicblock-er-example
+[submodule "tktk"]
+	path = tktk
+	url = https://github.com/amxrac/tktk
