@@ -13,3 +13,6 @@
 [submodule "tktk"]
 	path = tktk
 	url = https://github.com/amxrac/tktk
+[submodule "gpttktk"]
+	path = gpttktk
+	url = https://github.com/amxrac/gpttktk
