@@ -16,3 +16,6 @@
 [submodule "gpttktk"]
 	path = gpttktk
 	url = https://github.com/amxrac/gpttktk
+[submodule "prsq"]
+	path = prsq
+	url = https://github.com/amxrac/prsq
